@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="6lRRE_w9JhQ4DumSdJxG">
+    <mxGraphModel dx="2521" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-8" edge="1" parent="1" source="mp0O_yO8oGnKAo3AH-m3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="mp0O_yO8oGnKAo3AH-m3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="Cisco RTR" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-9" edge="1" parent="1" source="mp0O_yO8oGnKAo3AH-m3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="mp0O_yO8oGnKAo3AH-m3-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="380" />
+              <mxPoint x="-70" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-10" edge="1" parent="1" source="mp0O_yO8oGnKAo3AH-m3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="mp0O_yO8oGnKAo3AH-m3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-11" edge="1" parent="1" source="mp0O_yO8oGnKAo3AH-m3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="mp0O_yO8oGnKAo3AH-m3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-12" edge="1" parent="1" source="mp0O_yO8oGnKAo3AH-m3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="mp0O_yO8oGnKAo3AH-m3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-13" edge="1" parent="1" source="mp0O_yO8oGnKAo3AH-m3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="mp0O_yO8oGnKAo3AH-m3-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="380" />
+              <mxPoint x="820" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="Cisco SW" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="WIN" vertex="1">
+          <mxGeometry height="60" width="120" x="-130" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="CTRL" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="MON" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="DB" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="IOT" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Router&lt;div&gt;VLAN 10: 192.168.10.1/24&lt;/div&gt;&lt;div&gt;VLAN 20: 192.168.20.1/24&lt;/div&gt;&lt;div&gt;VLAN 30: 192.168.30.1/24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="450" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Switch&lt;div&gt;VLAN 10: 192.168.10.2/24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="455" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Windows Server 2019&lt;div&gt;VLAN 10: 192.168.10.10/24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="-170" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="РЕД ОС 8&lt;div&gt;VLAN 10: 192.168.10.20/24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="70" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="РЕД ОС 8&lt;div&gt;VLAN 20: 192.168.20.10/24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="285" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="РЕД ОС 8&lt;div&gt;VLAN 20: 192.168.20.20/24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="505" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="mp0O_yO8oGnKAo3AH-m3-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="РЕД ОС 8&lt;div&gt;VLAN 30: 192.168.30.10/24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="735" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
