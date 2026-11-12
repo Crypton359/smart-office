@@ -1,9 +1,0 @@
-services:
-  nginx:
-    image: nginx:alpine
-    container_name: nginx_web
-    restart: unless-stopped
-    ports:
-      - "8080:80"
-    volumes:
-      - /var/www/html:/usr/share/nginx/html:ro,Z-
